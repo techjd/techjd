@@ -1,4 +1,4 @@
-## Hola , I'm [Jaydeepsinh Parmar!](https://techjd.github.io/techjd/) 👋
+## Hola , I'm Jaydeepsinh Parmar! 👋
 
 - 👨‍💻 Mobile App Developer 
 - 🔭 I’m currently 2nd Year Computer Enginner Student.
