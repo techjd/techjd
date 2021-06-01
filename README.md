@@ -1,7 +1,7 @@
 ## Hola , I'm Jaydeepsinh Parmar! 👋
 
 - 👨‍💻 Mobile App Developer
-- 🔭 I’m currently 2nd Year Computer Enginner Student.
+- 🔭Pre-Final Year Student
 - 📫 How to reach me: [Twitter - @jaydeeptech](https://twitter.com/jaydeeptech) , [My LinkedIn](https://www.linkedin.com/in/techjd/)
 - 😄 Pronouns: He/His
 - 📱 My Apps On Play Store [Jaydeepsinh Parmar Apps](https://play.google.com/store/apps/developer?id=Jaydeepsinh+Parmar&hl=en_IN)
