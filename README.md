@@ -2,7 +2,6 @@
 
 - 👨‍💻 Mobile App Developer
 - 👨‍💻 Exploring Backend Development
-- 🔭 Final Year Student
 - 📫 How to reach me:  [My LinkedIn](https://www.linkedin.com/in/techjd/) , [My Twitter](https://twitter.com/jaydeeptech)
 - 😄 Pronouns: He/His
 - 📱 My Apps On Play Store [Jaydeepsinh Parmar Apps](https://play.google.com/store/apps/developer?id=Jaydeepsinh+Parmar&hl=en_IN)
